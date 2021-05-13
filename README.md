@@ -1,2 +1,5 @@
 # Web-Search-Engine
- JAVA, Javascript, BootStrap, JQuery
+  - JAVA
+  - Javascript
+  - BootStrap
+  - JQuery
